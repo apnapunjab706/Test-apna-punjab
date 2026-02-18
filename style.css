@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: linear-gradient(to right, #28a745, #007bff);
+    padding: 100px 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
